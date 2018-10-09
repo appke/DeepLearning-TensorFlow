@@ -42,3 +42,9 @@ HW3 is doing the sentiment classification, the descripiton of HW, and data link 
 If you have the same problem like me, you could utilize the tips in "Tipps for DNN" to improve the result in HW2.
 
 Cheers!
+
+
+
+<p align='center'>
+<img src='ch01-导论/images/surface-plot.jpg'>
+</p>
