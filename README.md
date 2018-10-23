@@ -46,5 +46,6 @@ Cheers!
 
 
 <p align='center'>
-<img src='ch01-导论/images/surface-plot.jpg'>
+<img src='ch01-导论/images/surface.jpg'>
 </p>
+
