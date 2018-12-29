@@ -70,6 +70,7 @@ Cheers!
 
 
 <p align='center'>
-<img src='ch01-导论/images/surface.jpg'>
+<img src='ch01-神经网络/image/surface.jpg'>
 </p>
+
 
