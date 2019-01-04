@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 不上传data数据
+data/
+
 # C extensions
 *.so
 
