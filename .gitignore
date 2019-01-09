@@ -5,6 +5,7 @@ __pycache__/
 
 # 不上传data数据
 data/
+slides/
 
 # C extensions
 *.so
