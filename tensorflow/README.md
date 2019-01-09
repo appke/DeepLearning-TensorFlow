@@ -2,7 +2,7 @@
 
 # tensorflow深度学习框架
 
-1. 安装更新 `TensorFlow pip` 包
+1. 安装更新 `TensorFlow pip` 包，并验证
 
 ```shell
 pip install --upgrade tensorflow
