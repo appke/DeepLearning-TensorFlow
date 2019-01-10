@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # 不上传data数据
+data/
 datas/
 slides/
 
