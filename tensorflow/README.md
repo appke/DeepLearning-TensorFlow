@@ -13,6 +13,18 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 
 
 
+## 📚课件列表
+
+[第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
+
+[第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
+
+[第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
+
+
+
+
+
 ##### The tensorflow note about the course on Youtube
 [Ben老师tensorflow教程](https://www.youtube.com/watch?v=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
 
@@ -22,13 +34,4 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 ##### 斯坦福TensorFlow课程
 [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
-
-
-## 📚课件列表
-
-[第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
-
-[第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
-
-[第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
 
