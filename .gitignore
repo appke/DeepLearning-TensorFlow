@@ -4,11 +4,12 @@ __pycache__/
 *$py.class
 
 # 不上传data数据
-datas/
+*.csv
+!los_data.csv
+
 slides/
 
-# 需要上传的文件
-!datas/los_data.csv
+
 
 
 # C extensions
