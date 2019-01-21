@@ -8,7 +8,7 @@ datas/
 slides/
 
 # 需要上传的文件
-!los_data.csv
+!datas/los_data.csv
 
 
 # C extensions
