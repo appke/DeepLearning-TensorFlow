@@ -12,7 +12,7 @@
 
 项目实战| 笔记博客 | 案例代码 
 :--|:--|:--
-洛杉矶房价预测 | [洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5) |[ex01-房价预测](ex01-房价预测)
+洛杉矶房价预测 | [洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5) |[kk01-机器学习完整技术栈.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk01-机器学习完整技术栈.ipynb)<br>[kk02-洛杉矶房价预测.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk02-洛杉矶房价预测.ipynb)<br/>[kk03-相关性分析.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk03-相关性分析.ipynb)<br/>[kk04-新1轮空值填充.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk04-新1轮空值填充.ipynb)<br/>[kk05-砖石镶板的填充.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk05-砖石镶板的填充.ipynb)<br/>
  |  |
 
 <br>
