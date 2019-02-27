@@ -24,6 +24,10 @@
 |01| tensorFlow入门 |          | [01-tensorFlow入门.ipynb](tensorflow/01-tensorFlow入门.ipynb) |
 |02|   书写体数字识别 |          | [02-书写体数字识别.ipynb](tensorflow/02-书写体数字识别.ipynb) |
 |03| tensorflow基本概念 |          |  |
+- 彭靖田[《TensorFlow快速入门与实战》](https://github.com/DjangoPeng/tensorflow-101)
+
+![](tensorflow/images/tensorflow_share.jpeg)
+
 <br>
 
 ## 🍭Keras

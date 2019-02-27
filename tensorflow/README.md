@@ -1,17 +1,15 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# tensorflow深度学习框架
+# Tensorflow深度学习框架
 
 1. 安装更新 `TensorFlow pip` 包，并验证
 
 ```shell
 pip install --upgrade tensorflow
-python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000]
 ```
 
-#### 
-
-
+TensorFlow快速入门与实战
 
 ## 📚课件列表
 
