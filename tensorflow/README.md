@@ -33,3 +33,11 @@ TensorFlow快速入门与实战
 [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
 
+
+
+
+<br>
+
+- 彭靖田[《TensorFlow快速入门与实战》](https://github.com/DjangoPeng/tensorflow-101)
+
+![](images/tensorflow_share.jpeg)
