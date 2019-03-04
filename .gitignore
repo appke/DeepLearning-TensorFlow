@@ -7,6 +7,8 @@ __pycache__/
 *.csv
 !los_data.csv
 
+
+# ppt比较大，不上传，可以删减
 slides/
 
 

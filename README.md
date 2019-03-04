@@ -19,15 +19,13 @@
 
 ## 👾Tensorflow
 
-|序号| 深度学习框架   | 笔记博客 | 案例代码 |
+|章节| 深度学习框架   | 笔记博客 | 案例代码 |
 |:--| :------------- | :------- | :------- |
-|01| tensorFlow入门 |          | [01-tensorFlow入门.ipynb](tensorflow/01-tensorFlow入门.ipynb) |
-|02|   书写体数字识别 |          | [02-书写体数字识别.ipynb](tensorflow/02-书写体数字识别.ipynb) |
-|03| tensorflow基本概念 |          |  |
-- 彭靖田[《TensorFlow快速入门与实战》](https://github.com/DjangoPeng/tensorflow-101)
-
-![](tensorflow/images/tensorflow_share.jpeg)
-
+|01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
+|02| **基本概念** |          | 01-张量 |
+|03| **房价预测**(实战) |          |  |
+|04| **手写体数字识别** |          |  |
+|05| **验证码识别** |          |  |
 <br>
 
 ## 🍭Keras
