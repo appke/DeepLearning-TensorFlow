@@ -19,6 +19,14 @@ TensorFlow快速入门与实战
 
 [第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
 
+[第四部分：实战TensorFlow房价预测](slides/4-实战TensorFlow房价预测.pdf)
+
+[第五部分：实战TensorFlow手写体数字识别](slides/5-实战TensorFlow手写体数字识别.pdf)
+
+[第六部分：实战TensorFlow验证码识别](slides/6-实战TensorFlow验证码识别.pdf)
+
+[第七部分：实战TensorFlow人脸识别](slides/7-实战TensorFlow人脸识别.pdf)
+
 
 
 
@@ -32,11 +40,9 @@ TensorFlow快速入门与实战
 ##### 斯坦福TensorFlow课程
 [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
-
-
-
-
 <br>
+
+
 
 - 彭靖田[《TensorFlow快速入门与实战》](https://github.com/DjangoPeng/tensorflow-101)
 
