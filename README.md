@@ -21,10 +21,10 @@
 
 |章节| 深度学习框架   | 笔记博客 | 案例代码 |
 |:--| :------------- | :------- | :------- |
-|01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
-|02| **基本概念** |          | [01-张量初体验.ipynb](tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](tensorflow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](tensorflow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](tensorflow/ch02-基本概念/04-会话.ipynb)<br/> |
-|03| **房价预测** |          |  |
-|04| **手写体数字识别** |          |  |
+|01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
+|02| **基本概念** |          | [01-张量初体验.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/04-会话.ipynb) |
+|03| **房价预测** |          | [01-数据分析.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/01-数据分析.ipynb)<br/>[02-数据规范化.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/02-数据规范化.ipynb)<br/>[03-创建数据回归模型.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/03-创建数据回归模型.ipynb)<br/> |
+|04| **手写体数字识别** |  |  |
 |05| **验证码识别** |  |  |
 |06| **人脸识别** |  |  |
 <br>
@@ -57,6 +57,10 @@ HW3 is doing the sentiment classification, the descripiton of HW, and data link 
 If you have the same problem like me, you could utilize the tips in "Tipps for DNN" to improve the result in HW2.
 
 Cheers!
+
+```
+https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/
+```
 
 
 
