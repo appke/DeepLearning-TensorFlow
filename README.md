@@ -22,10 +22,11 @@
 |章节| 深度学习框架   | 笔记博客 | 案例代码 |
 |:--| :------------- | :------- | :------- |
 |01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
-|02| **基本概念** |          | [01-张量初体验.ipynb](tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](tensorflow/ch02-基本概念/02-变量.ipynb) |
+|02| **基本概念** |          | [01-张量初体验.ipynb](tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](tensorflow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](tensorflow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](tensorflow/ch02-基本概念/04-会话.ipynb)<br/> |
 |03| **房价预测** |          |  |
 |04| **手写体数字识别** |          |  |
-|05| **验证码识别** |          |  |
+|05| **验证码识别** |  |  |
+|06| **人脸识别** |  |  |
 <br>
 
 ## 🍭Keras
