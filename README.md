@@ -32,7 +32,7 @@
 ## 🎉PyTorch
 |章节 | 深度学习框架 | 笔记博客 | 案例代码 |
 |--- | :----------- | :------- | :------- |
-|01| PyTorch基础 |          |          |
+|01| PyTorch基础 |  | [01-PyTorch处理Tensor.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/01-PyTorch处理Tensor.ipynb)<br/>[02-和Numpy的互操作.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/02-和Numpy的互操作.ipynb)<br/>[03-张量运算和梯度.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/03-张量运算和梯度.ipynb)<br/> |
 | 02 | 用PyTorch实现线性回归 | [**用PyTorch实现线性回归**]() |          |
 | 03 | 逻辑回归实现图像分类 | **[用PyTorch的逻辑回归实现图像分类**]() |          |
 <br>
