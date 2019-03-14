@@ -19,6 +19,8 @@
 
 ## 👾Tensorflow
 
+![](images/tensorflow-logo.png)
+
 |章节| 深度学习框架   | 笔记博客 | 案例代码 |
 |:--| :------------- | :------- | :------- |
 |01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
@@ -30,6 +32,9 @@
 <br>
 
 ## 🎉PyTorch
+
+![](images/pytorch-logo.png)
+
 |章节 | 深度学习框架 | 笔记博客 | 案例代码 |
 |--- | :----------- | :------- | :------- |
 |01| PyTorch基础 |  | [01-PyTorch处理Tensor.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/01-PyTorch处理Tensor.ipynb)<br/>[02-和Numpy的互操作.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/02-和Numpy的互操作.ipynb)<br/>[03-张量运算和梯度.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/03-张量运算和梯度.ipynb)<br/> |
@@ -38,6 +43,8 @@
 <br>
 
 ## 🍭Keras
+
+![](images/keras-logo.png)
 
 |章节 | 深度学习框架 | 笔记博客 | 案例代码 |
 |--- | :----------- | :------- | :------- |
