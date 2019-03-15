@@ -12,7 +12,7 @@
 
 项目实战| 笔记博客 | 案例代码 
 :--|:--|:--
-洛杉矶房价预测 | [洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5) |[kk01-机器学习完整技术栈.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk01-机器学习完整技术栈.ipynb)<br>[kk02-洛杉矶房价预测.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk02-洛杉矶房价预测.ipynb)<br/>[kk03-相关性分析.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk03-相关性分析.ipynb)<br/>[kk04-新1轮空值填充.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk04-新1轮空值填充.ipynb)<br/>[kk05-砖石镶板的填充.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/ex01-房价预测/kk05-砖石镶板的填充.ipynb)<br/>
+洛杉矶房价预测 | [洛杉矶房价预测](https://www.jianshu.com/p/9de54d5d70d5) |[kk01-机器学习完整技术栈.ipynb](ex01-房价预测/kk01-机器学习完整技术栈.ipynb)<br>[kk02-洛杉矶房价预测.ipynb](ex01-房价预测/kk02-洛杉矶房价预测.ipynb)<br/>[kk03-相关性分析.ipynb](ex01-房价预测/kk03-相关性分析.ipynb)<br/>[kk04-新1轮空值填充.ipynb](ex01-房价预测/kk04-新1轮空值填充.ipynb)<br/>[kk05-砖石镶板的填充.ipynb](ex01-房价预测/kk05-砖石镶板的填充.ipynb)<br/>
  |  |
 
 <br>
@@ -23,9 +23,9 @@
 
 |章节| 深度学习框架   | 笔记博客 | 案例代码 |
 |:--| :------------- | :------- | :------- |
-|01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
-|02| **基本概念** |          | [01-张量初体验.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch02-基本概念/04-会话.ipynb) |
-|03| **房价预测** |          | [01-数据分析.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/01-数据分析.ipynb)<br/>[02-数据规范化.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/02-数据规范化.ipynb)<br/>[03-创建数据回归模型.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/tensorflow/ch03-房价预测/03-创建数据回归模型.ipynb)<br/>[04-TensorBoard名字作用域.ipynb](tensorflow/ch03-房价预测/04-TensorBoard名字作用域.ipynb)<br/>[05-可视化损失函数.ipynb](tensorflow/ch03-房价预测/05-可视化损失函数.ipynb)<br/> |
+|01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](tensorflow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](tensorflow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
+|02| **基本概念** |          | [01-张量初体验.ipynb](tensorflow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](tensorflow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](tensorflow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](tensorflow/ch02-基本概念/04-会话.ipynb) |
+|03| **房价预测** |          | [01-数据分析.ipynb](tensorflow/ch03-房价预测/01-数据分析.ipynb)<br/>[02-数据规范化.ipynb](tensorflow/ch03-房价预测/02-数据规范化.ipynb)<br/>[03-创建数据回归模型.ipynb](tensorflow/ch03-房价预测/03-创建数据回归模型.ipynb)<br/>[04-TensorBoard名字作用域.ipynb](tensorflow/ch03-房价预测/04-TensorBoard名字作用域.ipynb)<br/>[05-可视化损失函数.ipynb](tensorflow/ch03-房价预测/05-可视化损失函数.ipynb)<br/> |
 |04| **手写体数字识别** |  |  |
 |05| **验证码识别** |  |  |
 |06| **人脸识别** |  |  |
@@ -37,7 +37,7 @@
 
 |章节 | 深度学习框架 | 笔记博客 | 案例代码 |
 |--- | :----------- | :------- | :------- |
-|01| PyTorch基础 |  | [01-PyTorch处理Tensor.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/01-PyTorch处理Tensor.ipynb)<br/>[02-和Numpy的互操作.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/02-和Numpy的互操作.ipynb)<br/>[03-张量运算和梯度.ipynb](https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/PyTorch/ch01-PyTorch基础/03-张量运算和梯度.ipynb)<br/> |
+|01| PyTorch基础 |  | [01-PyTorch处理Tensor.ipynb](PyTorch/ch01-PyTorch基础/01-PyTorch处理Tensor.ipynb)<br/>[02-和Numpy的互操作.ipynb](PyTorch/ch01-PyTorch基础/02-和Numpy的互操作.ipynb)<br/>[03-张量运算和梯度.ipynb](PyTorch/ch01-PyTorch基础/03-张量运算和梯度.ipynb)<br/> |
 | 02 | 用PyTorch实现线性回归 | [**用PyTorch实现线性回归**]() |          |
 | 03 | 逻辑回归实现图像分类 | **[用PyTorch的逻辑回归实现图像分类**]() |          |
 <br>
@@ -74,7 +74,7 @@ If you have the same problem like me, you could utilize the tips in "Tipps for D
 Cheers!
 
 ```
-https://nbviewer.jupyter.org/github/appke/DeepLearning-notebook/blob/master/
+
 ```
 
 
