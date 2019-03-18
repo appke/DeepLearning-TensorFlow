@@ -9,7 +9,7 @@ import torch
 torch.tensor([5, 3, 2])
 ```
 
-TensorFlow快速入门与实战
+PyTorch快速入门与实战
 
 
 
