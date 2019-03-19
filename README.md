@@ -25,8 +25,8 @@
 |:--| :------------- | :------- | :------- |
 |01| **tensorflow入门** |          | [01-tensorFlow入门.ipynb](TensorFlow/ch01-tensorflow入门/01-tensorFlow入门.ipynb)<br>[02-手写体数字识别.ipynb](TensorFlow/ch01-tensorflow入门/02-手写体数字识别.ipynb) |
 |02| **基本概念** |          | [01-张量初体验.ipynb](TensorFlow/ch02-基本概念/01-张量初体验.ipynb)<br>[02-变量.ipynb](TensorFlow/ch02-基本概念/02-变量.ipynb)<br/>[03-操作.ipynb](TensorFlow/ch02-基本概念/03-操作.ipynb)<br/>[04-会话.ipynb](TensorFlow/ch02-基本概念/04-会话.ipynb) |
-|03| **房价预测** |          | [01-数据分析.ipynb](TensorFlow/ch03-房价预测/01-数据分析.ipynb)<br/>[02-数据规范化.ipynb](TensorFlow/ch03-房价预测/02-数据规范化.ipynb)<br/>[03-创建数据回归模型.ipynb](TensorFlow/ch03-房价预测/03-创建数据回归模型.ipynb)<br/>[04-TensorBoard名字作用域.ipynb](TensorFlow/ch03-房价预测/04-TensorBoard名字作用域.ipynb)<br/>[05-可视化损失函数.ipynb](TensorFlow/ch03-房价预测/05-可视化损失函数.ipynb)<br/> |
-|04| **手写体数字识别** |  | [01-加载MNIST数据集.ipynb](TensorFlow/ch04-手写体识别/01-加载MNIST数据集.ipynb)<br>[02-神经网络softmax.ipynb](TensorFlow/ch04-手写体识别/02-神经网络softmax.ipynb)<br/>卷积神经网络CNN |
+|03| **房价预测** |          | [01-数据分析.ipynb](TensorFlow/ch03-房价预测/01-数据分析.ipynb)<br/>[02-数据规范化.ipynb](TensorFlow/ch03-房价预测/02-数据规范化.ipynb)<br/>[03-创建数据回归模型.ipynb](TensorFlow/ch03-房价预测/03-创建数据回归模型.ipynb)<br/>[04-TensorBoard名字作用域.ipynb](TensorFlow/ch03-房价预测/04-TensorBoard名字作用域.ipynb)<br/>[05-可视化损失函数.ipynb](TensorFlow/ch03-房价预测/05-可视化损失函数.ipynb) |
+|04| **手写体数字识别** |  | [01-加载MNIST数据集.ipynb](TensorFlow/ch04-手写体识别/01-加载MNIST数据集.ipynb)<br>[02-MNIST-softmax.ipynb](TensorFlow/ch04-手写体识别/02-MNIST-softmax.ipynb)<br/>[03-MNIST-CNN.ipynb](TensorFlow/ch04-手写体识别/03-MNIST-CNN.ipynb) |
 |05| **验证码识别** |  |  |
 |06| **人脸识别** |  |  |
 <br>
