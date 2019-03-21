@@ -10,7 +10,7 @@ __pycache__/
 
 # ppt比较大，不上传，可以删减页面
 slides/
-
+MNIST_data/
 
 
 
