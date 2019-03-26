@@ -31,16 +31,7 @@
 |06| **人脸识别** |  |  |
 <br>
 
-## 🎉PyTorch
 
-![](images/pytorch-logo.png)
-
-|章节 | 深度学习框架 | 笔记博客 | 案例代码 |
-|--- | :----------- | :------- | :------- |
-|01| PyTorch基础 |  | [01-PyTorch处理Tensor.ipynb](PyTorch/ch01-PyTorch基础/01-PyTorch处理Tensor.ipynb)<br/>[02-和Numpy的互操作.ipynb](PyTorch/ch01-PyTorch基础/02-和Numpy的互操作.ipynb)<br/>[03-张量运算和梯度.ipynb](PyTorch/ch01-PyTorch基础/03-张量运算和梯度.ipynb)<br/> |
-| 02 | PyTorch实现线性回归 | [**用PyTorch实现线性回归**]() | [01-计算梯度.ipynb](PyTorch/ch02-实现线性回归/01-计算梯度.ipynb)<br>[02-调整权重和偏置.ipynb](PyTorch/ch02-实现线性回归/02-调整权重和偏置.ipynb)<br/>[03-使用PyTorch内置的线性回归.ipynb](PyTorch/ch02-实现线性回归/03-使用PyTorch内置的线性回归.ipynb)<br/> |
-| 03 | 逻辑回归实现图像分类 | **[用PyTorch的逻辑回归实现图像分类**]() | [01-PyTorch加载MNIST数据.ipynb](PyTorch/ch03-Logistic回归实现图像分类/01-PyTorch加载MNIST数据.ipynb)<br/>[02-Logist回归实现图像分类.ipynb](02-Logist回归实现图像分类.ipynb)<br/> |
-<br>
 
 ## 🍭Keras
 
